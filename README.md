@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Oleesae&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
 <!--
 **Oleesae/Oleesae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
